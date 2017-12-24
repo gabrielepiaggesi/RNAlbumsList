@@ -20,7 +20,7 @@ On your Project directory
 npm start
 ```
 Scan the QR Code with Expo App.
-Copy this project to create a basic Firebase Authentication
+Copy this project to create a basic Items List!
 
 
 To Learn More on how to start with React Native [click here](https://facebook.github.io/react-native/docs/getting-started.html).
